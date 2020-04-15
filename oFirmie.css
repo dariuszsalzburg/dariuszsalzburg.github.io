@@ -183,7 +183,7 @@ body
 .banner{width: 100%; margin: 6px 0;}
 .zdj{width: 100%;}
 #tekst{width:100% !important; font-size: 20px;}
-#tekst1{width: 100%; margin-top: 300px;}
+#tekst1{width:100%; margin-top: 1000px;}
 
 }
 
@@ -217,8 +217,7 @@ body
 
 #tekst1
 {
-    width: auto;
-    margin-top: 10px;
+    margin-top: 20px;
     height: auto;
     background-color: #f1f1f1;
     font-size: 20px;
